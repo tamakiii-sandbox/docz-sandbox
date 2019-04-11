@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/tamakiii-sandbox/docz-sandbox/issues"
   },
-  "homepage": "https://github.com/tamakiii-sandbox/docz-sandbox#readme"
+  "homepage": "https://github.com/tamakiii-sandbox/docz-sandbox#readme",
+  "devDependencies": {
+    "docz": "^1.0.0-rc.9",
+    "docz-theme-default": "^1.0.0-rc.9"
+  }
 }
