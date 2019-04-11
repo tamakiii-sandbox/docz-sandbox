@@ -1,0 +1,23 @@
+{
+  "name": "docz-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tamakiii-sandbox/docz-sandbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tamakiii-sandbox/docz-sandbox/issues"
+  },
+  "homepage": "https://github.com/tamakiii-sandbox/docz-sandbox#readme",
+  "devDependencies": {
+    "docz": "^1.0.0-rc.9",
+    "docz-theme-default": "^1.0.0-rc.9"
+  }
+}
